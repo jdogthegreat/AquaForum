@@ -1,0 +1,1 @@
+{"extends":"react-app","rules":{"no-sparse-arrays":"warn","no-unused-vars":"warn","react-hooks/exhaustive-deps":"warn"}}
